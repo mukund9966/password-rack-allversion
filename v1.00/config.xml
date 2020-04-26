@@ -4,7 +4,7 @@
   <headerType>gui</headerType>
   <jar>F:\1\Password-Rack.jar</jar>
   <outfile>F:\1\v1.00\Password-Rack.exe</outfile>
-  <errTitle>You have to download required Java version</errTitle>
+  <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
   <priority>normal</priority>
@@ -23,4 +23,18 @@
     <jdkPreference>preferJre</jdkPreference>
     <runtimeBits>64/32</runtimeBits>
   </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.00.0</txtFileVersion>
+    <fileDescription>Password Rack</fileDescription>
+    <copyright>LunaticDevs</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.00.0</txtProductVersion>
+    <productName>Password-Rack</productName>
+    <companyName></companyName>
+    <internalName>Password-Rack</internalName>
+    <originalFilename>Password-Rack.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
 </launch4jConfig>
